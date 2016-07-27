@@ -1,0 +1,15 @@
+{
+  "name": "pH7-Social-Dating-CMS",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
